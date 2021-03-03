@@ -1,4 +1,5 @@
 # 這是攝氏轉換華式的轉換器
+# 練習2021/3/3
 
 echo "# c_to_f" >> README.md
 git init
